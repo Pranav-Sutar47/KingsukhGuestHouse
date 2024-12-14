@@ -1,8 +1,13 @@
-# React + Vite
+Kingsukh Guest House
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  The Kingsukh Guest House website is a modern, user-friendly platform designed using React. It showcases the amenities and services of the guest house, while offering a seamless room booking experience. The website incorporates visually appealing animations and an efficient user interface to ensure a pleasant user experience.
 
-Currently, two official plugins are available:
+Project Objectives
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Showcase Services: Highlight the features and amenities offered by Kingsukh Guest House.
+
+2. Ease of Booking: Provide an intuitive interface for users to book rooms.
+
+3. Modern Design: Utilize animations and a responsive layout for a professional look.
+
+4. Performance: Ensure fast loading times and smooth transitions across the site.
